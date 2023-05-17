@@ -24,11 +24,11 @@ body{
 .content-about{
 border-radius: 20px;
 padding: 15px;
-background-color: rgb(94, 105, 99);
+background-color: rgb(210, 189, 173);
 }
 a{
     text-decoration: none;
-    color: #94b81e;
+    color: #ffffff;
 }
 .footer-style{
 color: white;
@@ -59,3 +59,43 @@ font-weight: bold;
 .aboutmo{
     border-radius: 20px;
 }
+#border{
+    border-radius: 20px;
+}
+#edita{
+    background-color: rgb(83, 45, 26);
+    padding-left: 45%;
+    padding-right: 45%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+.mycolor{
+background-color: #efdfc9;
+border-radius: 20px;
+}
+.margina{
+    margin-top: 300px;
+}
+#aedits{
+    color: #94b81e
+}
+a:hover{
+    color: red;
+}
+.ccolor{
+    background-color: #cfad8f;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+#fontcolor{
+    background-color: red;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 50%;
+}
+.mycolor2{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #cfad8f;
+} 
