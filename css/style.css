@@ -10,13 +10,16 @@ body{
     color: rgb(83, 45, 26);
 }
 .nav-link{
-    color: rgb(83, 45, 26);
+    color: rgb(255, 255, 255);
 }
 .navbar-toggler{
-    border: 2px solid  rgb(83, 45, 26);
+    border: 2px solid  rgb(255, 255, 255);
 }
 .md-edit1{
     height: 150px;
+}
+.myheader{
+    background-color: #ca1d1d;
 }
 .burger5{
     border-radius: 20px;
@@ -32,7 +35,7 @@ a{
 }
 .footer-style{
 color: white;
-background-color: rgb(83, 45, 26);
+background-color: #ca1d1d;
 padding: 20px;
 }
 .myfonts{
@@ -99,3 +102,6 @@ a:hover{
     border-radius: 20px;
     background-color: #cfad8f;
 } 
+.form-control{
+    width: 50%;
+}
